@@ -10,8 +10,9 @@ Changing the XPath of the element in page.py and switching to the correct frame 
   <li>Username and Password are not mandatory</li>
   <li>State should not give a dropdown list of countries</li>
 </ol>
-<h3> Output :</h3>
-![Image](output.png?raw=true "Title")
+<h3> Output :</h3> 
+<img src = "output.png">
+
 
 
 
