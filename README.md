@@ -11,7 +11,7 @@ Changing the XPath of the element in page.py and switching to the correct frame 
   <li>State should not give a dropdown list of countries</li>
 </ol>
 <h3> Output :</h3>
-![Alt text](output.png?raw=true "Title")
+![Image](output.png?raw=true "Title")
 
 
 
